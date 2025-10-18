@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9866725639",
+    "project_id": "cajusoldpa202502",
+    "storage_bucket": "cajusoldpa202502.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9866725639:android:66d2761b7df210dd909da2",
+        "android_client_info": {
+          "package_name": "com.mcajusol.pc01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUEfvOdvQKbECh9BdYX6VpmoC8G73vmL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9866725639:android:217db377babd8ce9909da2",
+        "android_client_info": {
+          "package_name": "dev.luischang.appdpa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUEfvOdvQKbECh9BdYX6VpmoC8G73vmL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
